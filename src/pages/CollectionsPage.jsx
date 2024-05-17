@@ -5,6 +5,9 @@ import { Link } from "react-router-dom";
 export default function CollectionsPage() {
   useEffect(() => {
     window.scrollTo(0, 0);
+    // a
+    // b
+    // c
   }, []);
 
   return (
